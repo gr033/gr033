@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ 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 }}
           USERNAME: ${{ gr033 }}
       - name: Commit & Push
         run: |
