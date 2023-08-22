@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<유저네임>)](https://github.com/anuraghazra/github-readme-stats)
-[출처] [Github] Github 프로필 꾸미기 - 간단하게 깃꾸하기|작성자 일상노트
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr033)](https://solved.ac/gr033)
+[![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fgr033&count_bg=%2352DFDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
