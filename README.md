@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
  [![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
-</div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gr033)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
