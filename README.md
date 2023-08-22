@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<유저네임>)](https://github.com/anuraghazra/github-readme-stats)
+[출처] [Github] Github 프로필 꾸미기 - 간단하게 깃꾸하기|작성자 일상노트
