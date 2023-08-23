@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
   
 ####  :wave: Welcome my github profile !
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr033)](https://solved.ac/gr033) [![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr033)](https://solved.ac/gr033)     [![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  
 ## ✨Programmers [프로그래머스](https://programmers.co.kr/)
