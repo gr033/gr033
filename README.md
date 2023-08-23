@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
   
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
   #### `score`    :    1345
   #### `solved`    :    212 
 
-<br/>
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -45,14 +43,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-<br/>
-<br/>
-<br/>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
   
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri98834@gmail.com)](mailto:yuri98834@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gr033@naver.com)](mailto:gr033@naver.com)
-</div>
