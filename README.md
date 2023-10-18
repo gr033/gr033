@@ -22,9 +22,9 @@ Here are some ideas to get you started:
  <br/>
  
 ## ✨Programmers [프로그래머스](https://programmers.co.kr/)
-  #### `rank`    :    16093
-  #### `score`    :    1416
-  #### `solved`    :    245
+  #### `rank`    :    15197
+  #### `score`    :    1427
+  #### `solved`    :    249
 
 
 
